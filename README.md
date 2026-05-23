@@ -1,3 +1,5 @@
+Python Calculator 
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 
 ![CLI App](https://img.shields.io/badge/Application-CLI-green?style=for-the-badge)
