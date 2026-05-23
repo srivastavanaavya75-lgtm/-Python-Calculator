@@ -1,6 +1,8 @@
-# Simple Calculator (Python)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 
-This is a basic command-line calculator built using Python. It performs arithmetic operations like addition, subtraction, multiplication, and division.
+![CLI App](https://img.shields.io/badge/Application-CLI-green?style=for-the-badge)
+
+![Beginner Project](https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge)
 
 ## Features
 - Supports +, -, *, /
