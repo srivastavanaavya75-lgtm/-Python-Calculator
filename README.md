@@ -20,5 +20,14 @@ Python Calculator
 - Used loops and conditional statements
 - Implemented error handling
 
+
+## 🔮 Future Improvements
+
+- Scientific calculator support
+- GUI version using Tkinter
+- History tracking
+- Advanced mathematical operations
+  
 ## Author
 Naavya Srivastava
+
